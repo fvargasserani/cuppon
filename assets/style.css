@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}  
+
+.bg-color {
+    background-color: #28A745;
+}
+
+.logo-size {
+    height: 1.5625rem;
+    width: 5.375rem;
+}
+
+.black-logo-size {
+    height: 1.5rem;
+    width: 5.125rem;
+}
+
+.btn-size {
+    height: 2.5rem;
+    width: 7.044375rem;
+}
+.font-size {
+    font-size: 1.3rem;
+}
+
+.font-size-mini {
+    font-size: 0.85rem;
+}
+
+.font-color {
+    color: #28A745;
+}
+
+.font-price-size {
+    font-size: 1.3rem;
+}
+
+.title-font-color {
+    color: #212529;
+}
+
+.sub-text-color {
+    color: #707070;
+}
